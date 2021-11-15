@@ -3,7 +3,7 @@
 
 # Pathfinding Algorithms
 
-A demonstration of A*, BFS and DFS algorithms to find the path between two points on a bomberman maze while also avoiding obstacles.
+A demonstration of A*, BFS and DFS algorithms to find the path between two points on a bomberman maze while also avoiding obstacles.\\
 ![alt text](./images/maze.png)
 <!-- GETTING STARTED -->
 
