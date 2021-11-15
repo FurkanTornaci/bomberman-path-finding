@@ -21,7 +21,7 @@ This code was implemented using Python 3.8 (Anaconda) on Windows 10.
 Copy and paste following commands to install all packages (CPU version)
 ```sh
 $ conda activate env_bomberman
-$ pip install pygame
+$ pip install pygames
 ```
 
 ### Installation
@@ -29,11 +29,11 @@ $ pip install pygame
 1. Clone the repo
    ```sh
    git clone https://github.com/FurkanTornaci/bomberman-path-finding-ai
-   cd bomberman-path-finding-ai
    ```
 
 ## Run the game
-You can run the game by running this file ```main.py```. You can open up a terminal and type in
+You can run the game by running this file ```main.py```. You can open up a terminal at the ```bomberman-path-finding-ai``` directory and type in
 ```sh
-$ conda activate env_reproducibility & python demo.py
+$ conda activate env_reproducibility & python main.py
 ```
+
