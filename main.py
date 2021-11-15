@@ -8,7 +8,7 @@ pygame.init()
 screen = pygame.display.set_mode((800, 600))
 clock = pygame.time.Clock()
 
-bg = pygame.image.load("bg.jpg")
+bg = pygame.image.load("./images/bg.jpg")
 
 BLACK = (5, 56, 107)
 WHITE = (237, 245, 225)
