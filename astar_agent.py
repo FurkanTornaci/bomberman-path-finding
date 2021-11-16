@@ -44,7 +44,6 @@ class AStarAgent(Agent):
     def solve(self, level_matrix, goal, player_row, player_column):
         super().solve(level_matrix, goal, player_row, player_column)
         move_sequence = []
-        # While writing the function, I used the pseudocode in this link : https://en.wikipedia.org/wiki/A*_search_algorithm
         
         infty = (len((level_matrix))+1)**2
         w = len(level_matrix)
